@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "핸드폰 좀 꺼줄래",
+  "base_artist": "방탄소년단 (BTS)",
+  "createdAt": "2026-02-21T00:44:06.452227Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "핸드폰 좀 꺼줄래 Could you turn off your cell phone",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/01_핸드폰_좀_꺼줄래_Could_you_turn_off_your_cell_phone_BTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "핸드폰 좀 꺼줄래 (Would You Turn Off Your Cellphone?)",
+      "artist": "BTS (방탄소년단)",
+      "has_synced": true,
+      "path": "select/02_핸드폰_좀_꺼줄래_(Would_You_Turn_Off_Your_Cellphone_)_BTS_(방탄소년단).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "핸드폰 좀 꺼줄래",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_핸드폰_좀_꺼줄래_BTS.txt"
+    }
+  ]
+}
